@@ -14,7 +14,10 @@ export const metadata: Metadata = {
   },
   generator: "Hiba Lebied",
   keywords: ["travel", "green", "eco", "voyage"],
-  themeColor: "#00A676",
+};
+
+export const viewport = {
+  themeColor: "#157246ff", // Vert pharmacie
 };
 
 export default function RootLayout({
