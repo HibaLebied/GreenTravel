@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport = {
-  themeColor: "#157246ff", // Vert pharmacie
+  themeColor: "primary",
 };
 
 export default function RootLayout({
